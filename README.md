@@ -79,7 +79,7 @@ This project investigates what makes young adults (ages 21‑22) anxious about t
 | `LIFESAT` | -0.05 | Higher life satisfaction → lower concern |
 | `RIGHT_DEC_WORK` | +0.04 | Work decision regret → higher concern |
 
-*All predictors significant at p < 0.05. See the full regression output in the [Jupyter notebook](notebooks/analysis.ipynb).*
+*All predictors significant at p < 0.05. See the full regression output in the [Jupyter notebook](notebooks/aspire-3.ipynb).*
 
 ---
 
