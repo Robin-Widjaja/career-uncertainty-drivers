@@ -159,9 +159,9 @@ This project showcases a range of technical and analytical skills:
 | **Data Cleaning** | Handling missing codes (998/999), type conversion, feature engineering, creating composite variables |
 | **Exploratory Analysis** | Correlation analysis, distribution visualization, summary statistics |
 | **Statistical Modeling** | Linear regression, backward elimination, multicollinearity checking (VIF), interaction analysis |
-| **Model Validation** | 5‑fold cross‑validation, residual diagnostics, influence analysis (Cook's distance) |
+| **Model Validation** | 5‑fold cross‑validation |
 | **Data Visualization** | Coefficient plots, correlation heatmaps, boxplots, interactive Tableau dashboard |
-| **Python Libraries** | pandas, numpy, statsmodels, scikit‑learn, matplotlib, seaborn, pingouin |
+| **Python Libraries** | pandas, numpy, statsmodels, scikit‑learn, matplotlib, seaborn |
 | **Communication** | Clear documentation, actionable recommendations for edtech, storytelling with data |
 
 ---
