@@ -1,0 +1,9 @@
+# Ignore data files (licensing restrictions)
+/data/*.csv
+/data/*.tab
+/data/*.sav
+/data/*.dta
+/data/*.xlsx
+
+# But allow the README
+!/data/README.md
