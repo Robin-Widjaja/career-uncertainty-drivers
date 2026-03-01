@@ -104,19 +104,19 @@ Based on the findings, edtech platforms can reduce student career anxiety by:
 - Required packages: `pip install -r requirements.txt`
 
 ## 📁 Repository Structure
-├── README.md                 # This file
-├── LICENSE                   # MIT License
-├── requirements.txt          # Python dependencies
-├── data/                     # (not included – see access instructions)
-├── notebooks/               
-│   └── analysis.ipynb        # Main analysis notebook
-├── scripts/                  
-│   └── data_cleaning.py      # Data preparation functions
-├── outputs/                  
-│   ├── figures/              # Generated plots
-│   └── final_model_summary.csv
-└── tableau/                  
-    └── aspires3_dashboard.twb # Tableau dashboard file
+├── README.md # Project overview and documentation
+├── LICENSE # MIT License
+├── requirements.txt # Python dependencies
+├── data/ # Data files (not included – see access instructions)
+├── notebooks/
+│ └── analysis.ipynb # Main analysis notebook
+├── scripts/
+│ └── data_cleaning.py # Data preparation functions
+├── outputs/
+│ ├── figures/ # Generated plots
+│ └── final_model_summary.csv
+└── tableau/
+└── aspires3_dashboard.twb # Tableau dashboard file
 *Note: The `data/` folder is not included in the repository due to data licensing restrictions. See the [Dataset](#dataset) section for access instructions.*
 
 ### Accessing the Data
