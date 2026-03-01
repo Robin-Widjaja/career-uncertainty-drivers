@@ -1,0 +1,3 @@
+pandas
+numpy
+pingouin  # optional, for Cronbach's alpha
