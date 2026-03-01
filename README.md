@@ -133,6 +133,103 @@ cd career-uncertainty-drivers
 pip install -r requirements.txt
 jupyter notebook notebooks/aspire-3.ipynb
 ```
+## 📊 Tableau Dashboard
+
+An interactive Tableau dashboard is available to explore the findings visually:
+
+**[View Interactive Dashboard on Tableau Public](link-to-your-tableau-dashboard)**
+
+### Dashboard Features:
+- **Coefficient Plot:** Horizontal bar chart showing the relative impact of each predictor on future concern
+- **Key Drivers Panel:** Highlights the top 5 actionable factors
+- **Interactive Filters:** Explore patterns by gender, parental education, and region
+- **Correlation Heatmap:** Visual confirmation of low multicollinearity among final predictors
+- **Model Performance Summary:** Key metrics (R² = 0.402, CV R² = 0.389)
+
+![Dashboard Preview](link-to-your-dashboard-screenshot.png)
+
+---
+
+## 🧠 Skills Demonstrated
+
+This project showcases a range of technical and analytical skills:
+
+| Category | Skills |
+|----------|--------|
+| **Data Cleaning** | Handling missing codes (998/999), type conversion, feature engineering, creating composite variables |
+| **Exploratory Analysis** | Correlation analysis, distribution visualization, summary statistics |
+| **Statistical Modeling** | Linear regression, backward elimination, multicollinearity checking (VIF), interaction analysis |
+| **Model Validation** | 5‑fold cross‑validation, residual diagnostics, influence analysis (Cook's distance) |
+| **Data Visualization** | Coefficient plots, correlation heatmaps, boxplots, interactive Tableau dashboard |
+| **Python Libraries** | pandas, numpy, statsmodels, scikit‑learn, matplotlib, seaborn, pingouin |
+| **Communication** | Clear documentation, actionable recommendations for edtech, storytelling with data |
+
+---
+
+## ⚠️ Limitations
+
+While this analysis provides robust insights, several limitations should be acknowledged:
+
+- **Cross‑sectional data:** All relationships are correlational, not causal. Directionality cannot be determined.
+- **Sample size reduction:** The final model used 3,049 of 7,635 respondents due to listwise deletion of missing data. Results may not fully generalize to those with incomplete responses.
+- **Self‑report bias:** All measures are based on self‑report, which may be influenced by social desirability, recall bias, or current mood.
+- **UK‑specific sample:** Findings may not generalize to other countries or educational systems.
+- **Composite reliability:** The `job_perception` composite has modest internal consistency (Cronbach's α = 0.55). This reflects a trade‑off between psychometric ideals and model stability.
+- **Single‑item measures:** Many constructs were measured with single items, which are less reliable than multi‑item scales.
+- **Missing data mechanisms:** Missingness may not be completely at random, potentially introducing bias.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive license that allows others to use, modify, and distribute this code with attribution, while providing no warranty. This promotes open collaboration while ensuring proper credit.
+
+---
+
+## 🙏 Acknowledgements
+
+I would like to express my gratitude to:
+
+- **ASPIRES3 Research Team** at University College London (UCL), particularly Professor Louise Archer and colleagues, for conducting this rich longitudinal study and making it available for secondary analysis.
+- **UK Data Service** for providing access to the ASPIRES3 dataset (Study Number SN 9224) and maintaining high standards of data curation.
+- **Economic and Social Research Council (ESRC)** for funding the ASPIRES project.
+- **The 7,635 young people** who participated in the survey and shared their aspirations, experiences, and concerns – this research would not be possible without them.
+- **The open‑source community** for developing and maintaining the incredible tools that made this analysis possible: pandas, statsmodels, scikit‑learn, matplotlib, seaborn, and many others.
+
+---
+
+## 📬 Contact
+
+I welcome questions, collaborations, or feedback about this project.
+
+| | |
+|---|---|
+| **👤 Name** | Robin |
+| **🔗 LinkedIn** | [https://www.linkedin.com/in/robin-a197403b1/] |
+| **📧 Email** | [robinwidjaja87@gmail.com] |
+| **🐙 GitHub** | [https://github.com/Robin-Widjaja] |
+
+Feel free to reach out if you:
+- Have questions about the analysis or methodology
+- Are interested in collaborating on edtech or education research
+- Want to discuss data science opportunities in the edtech sector
+
+---
+
+## ⭐ Support This Project
+
+If you found this project useful, please consider:
+- Starring the repository on GitHub
+- Sharing it with others who might benefit
+- Citing it in your own work
+
+---
+
+## 🗓️ Last Updated
+
+March 2026
 
 
 
