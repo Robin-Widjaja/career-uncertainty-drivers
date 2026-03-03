@@ -146,7 +146,7 @@ An interactive Tableau dashboard is available to explore the findings visually:
 - **Correlation Heatmap:** Visual confirmation of low multicollinearity among final predictors
 - **Model Performance Summary:** Key metrics (R² = 0.402, CV R² = 0.389)
 
-![Dashboard Preview](link-to-your-dashboard-screenshot.png)
+![Dashboard Preview](https://github.com/Robin-Widjaja/career-uncertainty-drivers/blob/main/assets/Dashboard.png)
 
 ---
 
