@@ -5,7 +5,7 @@
 
 **Identifying the key factors that drive young people's career uncertainty using the ASPIRES3 longitudinal dataset.**
 
-![Project Banner](link-to-your-image-optional.png)
+
 
 ---
 
