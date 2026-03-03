@@ -137,7 +137,7 @@ jupyter notebook notebooks/aspire-3.ipynb
 
 An interactive Tableau dashboard is available to explore the findings visually:
 
-**[View Interactive Dashboard on Tableau Public](link-to-your-tableau-dashboard)**
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/robin.robin5712/viz/Aspire3/Dashboard1)**
 
 ### Dashboard Features:
 - **Coefficient Plot:** Horizontal bar chart showing the relative impact of each predictor on future concern
